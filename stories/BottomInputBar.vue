@@ -13,7 +13,7 @@
     <v-btn class="info" small @click="sendMessage" style="sendButtonColor">
       <v-icon>mdi-play</v-icon>{{ sendButtonLabel }}
     </v-btn>
-    <v-btn>new text</v-btn>
+    <v-btn>新しいテキスト</v-btn>
     <v-btn>bbb</v-btn>
   </v-card-text>
 </template>
