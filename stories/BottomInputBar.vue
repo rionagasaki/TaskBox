@@ -14,7 +14,7 @@
       <v-icon>mdi-play</v-icon>{{ sendButtonLabel }}
     </v-btn>
     <v-btn>new textです</v-btn>
-    <v-btn>bbb</v-btn>
+    <v-btn>bbbに変更します</v-btn>
   </v-card-text>
 </template>
 
