@@ -14,6 +14,7 @@
       <v-icon>mdi-play</v-icon>{{ sendButtonLabel }}
     </v-btn>
     <v-btn>aaaaaa</v-btn>
+    <v-btn>bbb</v-btn>
   </v-card-text>
 </template>
 
