@@ -13,7 +13,8 @@
     "lintfix": "prettier --write --list-different . && npm run lint:js -- --fix",
     "test": "jest",
     "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook"
+    "build-storybook": "build-storybook",
+    "chromatic": "npx chromatic --project-token=f8c35cc3620f"
   },
   "dependencies": {
     "@mdx-js/react": "^2.1.3",
@@ -57,5 +58,7 @@
     "postcss": "^8.4.16",
     "prettier": "^2.5.1",
     "vue-jest": "^3.0.4"
-  }
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "chatApp@1.0.0"
 }
